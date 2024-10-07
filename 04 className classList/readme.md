@@ -1,3 +1,4 @@
+```js
 // className
 // classList
 
@@ -45,3 +46,4 @@ third.classList.add("text", "colors")
 
 // const classValue = third.classList
 // console.log(classValue)
+```
